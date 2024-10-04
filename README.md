@@ -3,7 +3,7 @@
 This project explores the relationship between stars and their exoplanet companions by predicting the number of exoplanets based on stellar characteristics. 
 The model was optimized to enhance computational efficiency, achieving a 79% reduction in execution time. Additionally, I incorporated data visualizations to illustrate key patterns and insights, combining my technical expertise in computer science with my passion for astronomy.
 
-# Dataset
+## Dataset
 
 This research has made use of the NASA Exoplanet Archive, which is operated by the California Institute of Technology, under contract with the National Aeronautics and Space Administration under the Exoplanet Exploration Program.
 Digital Object Identifier (DOI) : 10.26133/NEA40
