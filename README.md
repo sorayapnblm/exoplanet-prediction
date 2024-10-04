@@ -16,11 +16,9 @@ Copyright © 2023 Soraya PANAMBALOM
 This project is a property of Soraya PANAMBALOM.
 
 You are free to:
-
 Share: Copy and redistribute the material in any medium or format.
 Adapt: Remix, transform, and build upon the material for any purpose.
 
 Under the following terms:
-
 Attribution: You must give appropriate credit.
 
